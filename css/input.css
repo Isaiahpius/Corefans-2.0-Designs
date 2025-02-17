@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    --container-max-w-8xl: 1440px;
+    --spacing-68: 236px;
+    --spacing-99: 1024px;
+    --spacing-84: 196px
+}

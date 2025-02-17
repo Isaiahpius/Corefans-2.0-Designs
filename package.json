@@ -1,0 +1,10 @@
+{
+  "script": {
+    "start": "@tailwindcss/cli -i ./css/input.css -o ./css/output.css",
+    "watch": "@tailwindcss/cli -i ./css/input.css -o ./css/output.css --watch"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.6",
+    "tailwindcss": "^4.0.6"
+  }
+}
